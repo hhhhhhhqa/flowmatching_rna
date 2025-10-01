@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 
 import os, math, json, random, argparse, time
 from pathlib import Path
